@@ -1,4 +1,6 @@
-# December 2022
+# Joke Box
+December 2022
+
 This is a display box that will show only the funniest, most personalized jokes to my dad.
 
 It uses NLP, Sentiment Analysis, and joke length to characerize the jokes into differnet categories. 
