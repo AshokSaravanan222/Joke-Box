@@ -1,4 +1,4 @@
-# Joke Box
+# Joke Box (WIP)
 December 2022
 
 This is a display box that will show only the funniest, most personalized jokes to my dad.
